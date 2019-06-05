@@ -2,6 +2,10 @@
 ![Travis (.org)](https://img.shields.io/travis/strongloop/oasgraph.svg?style=flat)
 [![Join the chat at https://gitter.im/oasgraph/Lobby](https://badges.gitter.im/oasgraph/Lobby.svg?style=flat)](https://gitter.im/oasgraph/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+# OAS Graph 4 Alturos
+
+This fork implements additional auth schemas (namely JWT via a Bearer Token) to enable automatic creation of a microservice to route APIs secured that way through.
+
 
 # OASGraph
 Translate APIs described by [OpenAPI Specifications (OAS)](https://github.com/OAI/OpenAPI-Specification) into [GraphQL](https://graphql.org/).
